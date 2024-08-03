@@ -75,7 +75,7 @@ a:any-link {
     font-weight: bold;
 }
 
-#social a:hover {
+a:hover {
     opacity: 0.75;
 }
 
